@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-caiquedev25/caiquedev25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<code>
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=cwhite
 
-
-----------------------------------------------------------------------------------
+</code>
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=cwhite
