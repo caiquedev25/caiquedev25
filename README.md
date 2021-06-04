@@ -8,7 +8,7 @@
 # Hello World, I'm Caique Dev!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
-## I'm (Caique Melo)!
+## I'm (Caique Dev)!
 
 
 :computer: I'm  full Stack Developer JR !
