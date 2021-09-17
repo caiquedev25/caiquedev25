@@ -26,7 +26,7 @@
 
 
 - 👩‍💻 Formado Analise Desenvolvimento de Sistema ;
-- Atualmente  Assistente de Projetos de TI no Grupo Ramiro Campelo;. 
+- Atualmente  Analista de Sistema no Projetos de TI no Grupo Ramiro Campelo;. 
 - 💼 Aprimorando as tecnologias de Front-end Back-end;
 - 👾 Dsenvolvendo aplicações desktop,Web,Mobile em diferentes tecnologias : 
   
